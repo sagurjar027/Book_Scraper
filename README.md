@@ -1,1 +1,0 @@
-this is about the book scrapping
