@@ -1,4 +1,0 @@
-streamlit
-Git
-GitHub
-python 3.x
